@@ -131,8 +131,3 @@ result = forest.predict(test_data_features)
 import pandas as pd
 
 output = pd.DataFrame( {"news":np.asarray(test), "class":result} ).set_index('news')
-
-print (output)
-
-# cooccurence matrix
-# svd
