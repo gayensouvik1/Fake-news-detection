@@ -1,0 +1,21 @@
+Uber’s self-driving vehicles are in hot waters once again. Yesterday, one of these Volvo test vehicles was involved in a terrible accident and now the company has suspended its complete self-driving fleet. Yes, all autonomous vehicles operating across Arizona, Pittsburgh and also San Francisco have been grounded.
+
+As reported earlier, one of Uber’s self-driving Volvo XC90 SUVs was involved in a seemingly terrible car crash in Tempe, Arizona. But, the autonomous vehicle was not at fault and said to be operating in the self-driving mode when a car failed to yield and crashed directly into the Uber’s Volvo. The intensity of this collision left the self-driving car toppled on its side but no serious injuries were reported. It only had one Uber engineer in the driver’s seat and was not ferrying any passengers at that instant of time.
+
+An Uber spokesperson confirmed the same to NYT and further said,
+
+We are continuing to look into this incident and can confirm we had no back-seat passengers in the vehicle.
+
+Further, following in line with numerous media reports, the Uber spokesperson then continued to add that it was suspending public road trials in Arizona. This suspension was previously only being extended to Arizona, pending results of their ongoing investigation into yesterday’s accident. But, Uber has now decided to halt operations of its self-driving vehicles across all existing trial locations.
+
+This means you’ll not witness any autonomous Uber vehicles driving down the streets of Pittsburgh (where it initiated its public trials), as well as San Francisco (California, where it secured a permit and returned recently). There is currently no set duration for the self-driving fleet’s suspension in other locations except Arizona. The spokesperson confirmed that the vehicles will continue to remain grounded in Arizona until results of their investigation are out but there is no word about the same in other regions. With regards to the same, the spokesperson added,
+
+Our vehicles in Arizona remain grounded while we continue our investigation. Our vehicles are grounded in Pittsburgh and SF today as well.
+
+The timing of this development is pretty unfortunate for Uber, which is currently caught amid surmounting controversies. And they’re not limited to their technological development but more prominently linked to the company’s culture. A former employee slapped the company with allegations of sexual harassment and sexism in the workplace last month. Uber CEO Travis Kalanick had also been seen arguing with an Uber Black driver over their pricing schemes in a leaked video.
+
+Kalanick has already called an investigation into the said allegations, but it has already affected the company brand image among the consumers (the #DeleteUber campaign) and the employees (multiple exits ranging from President Jeff Jones to researchers at Uber ATC).
+
+For those unaware, Alphabet’s Waymo self-driving division has filed a patent infringement lawsuit along with an injunction stating that Uber’s self-driving technology is built using sensitive data stolen from their company. It believes that former Googler Anthony Lewandowski took off with over 9.7 GB of trade secrets, including blueprints, design files and testing documentation to build a self-driving truck startup Otto, which was bought by Uber.
+
+And the accident has further justified an internal report which suggested that the company is having is having a tough time optimizing its self-driving tech. As per the report, Uber’s miles per intervention (which is the number of miles driven by a car before a human has to take over for any reason) stood at .9 miles in January. In February, the car had managed to cross the one-mile landmark. However, it has dropped right back down to .8 miles this month. So, in short, a full load of troubles in Uber’s piggy bank at the moment.
