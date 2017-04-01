@@ -104,6 +104,9 @@ test = []
 paths = os.path.abspath("news/test/*")
 my_len = len(glob.glob(paths))
 
+paths = os.path.abspath("news/*")
+news_len = len(glob.glob(paths))
+
 for i in range (0,my_len):
     temp = 'news/test/test_'+str(i+1)+'.txt'
     with open(temp, 'r') as myfile:
@@ -125,9 +128,27 @@ test_data_features = test_data_features.toarray()
 
 # Use the random forest to make sentiment label predictions
 result = forest.predict(test_data_features)
+result_prob = forest.predict_proba(test_data_features)
 
 # Copy the results to a pandas dataframe with an "id" column and
 # a "sentiment" column
 import pandas as pd
 
+threshold = 0.7
+
+def filter():
+	
+	for i in range(0,my_len):
+		bl = 0
+		for j in range(0,news_len-1):
+			
+			if result_prob[i][j] >= threshold:
+				bl = 1
+				break
+		print bl
+		if bl==0:
+			result[i] = 0
+filter()
 output = pd.DataFrame( {"news":np.asarray(test), "class":result} ).set_index('news')
+
+print output
