@@ -4,17 +4,32 @@ train_y = []
 import glob
 import os
 
+news_list = glob.glob("news/*")
 
-for h in range(0,3):
-    paths = os.path.abspath("news/news_"+str(h+1)+"/*")
-    my_len = len(glob.glob(paths))
-    for i in range (0,my_len):
-        temp = 'news/news_'+str(h+1)+'/news_'+str(h+1)+'_'+ str(i) + '.txt'
-        train_y.append(h+1)
-        with open(temp, 'r') as myfile:
-            data.append(myfile.read())
+total_train = 0
+data = []
+
+
+
+for h in range(0,len(news_list)-1):
+
+    files = glob.glob("news/news_"+str(h+1)+"/*")
+    # print (len(files))
+    total_train += len(files)
     
-    
+    for file in files:
+    	
+    	train_y.append(h+1)
+    	with open(file, 'r') as myfile:
+    		
+        	data.append(myfile.read())
+
+
+
+
+
+
+
 
 import re,nltk
 from nltk.corpus import stopwords
@@ -38,9 +53,19 @@ def review_to_words( raw_review ):
     return( " ".join( meaningful_words ))
 
 
+
+
+
+
+
 clean_train_reviews = []
-for i in range (0,46):
+
+
+# print (type(data[4]))
+for i in range (0,total_train):
     clean_train_reviews.append(review_to_words(data[i]))
+
+
 
 print "Creating the bag of words...\n"
 from sklearn.feature_extraction.text import CountVectorizer
@@ -100,20 +125,19 @@ forest = forest.fit( train_data_features ,train_y)
 
 
 test = []
+test_list = glob.glob("news/test_true/*")
 
-paths = os.path.abspath("news/test/*")
-my_len = len(glob.glob(paths))
 
 paths = os.path.abspath("news/*")
 news_len = len(glob.glob(paths))
 
-for i in range (0,my_len):
-    temp = 'news/test/test_'+str(i+1)+'.txt'
-    with open(temp, 'r') as myfile:
+
+for my_test in test_list:
+    with open(my_test, 'r') as myfile:
         test.append(myfile.read())
 
 clean_test_reviews = []
-for i in range(0,my_len):
+for i in range(0,len(test_list)):
 	clean_test_review = review_to_words( test[i] )
 
 	
@@ -134,20 +158,22 @@ result_prob = forest.predict_proba(test_data_features)
 # a "sentiment" column
 import pandas as pd
 
-threshold = 0.7
+threshold = 0.5
 
 def filter():
 	
-	for i in range(0,my_len):
+	for i in range(0,len(test_list)):
 		bl = 0
 		for j in range(0,news_len-1):
 			
 			if result_prob[i][j] >= threshold:
 				bl = 1
 				break
-		print bl
+		
 		if bl==0:
 			result[i] = 0
+
+			
 filter()
 output = pd.DataFrame( {"news":np.asarray(test), "class":result} ).set_index('news')
 
