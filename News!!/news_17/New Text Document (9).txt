@@ -1,0 +1,27 @@
+Disruption of autophagy processes of the cell has been linked to Parkinson’s disease, type 2 diabetes.
+
+Nobel laureate Yoshinori Ohsumi’s work on mechanisms underlying autophagy — a fundamental process of degrading and recycling cellular components — has generated much interest in the science behind the biological process. In this article, we will aim to explain the significance of this discovery and the earlier work in this area.
+
+What is autophagy?
+
+The word autophagy originates from Greek words auto, meaning “self”, and phagein, meaning “to eat”, according to the release put up on the Nobel Prize website. The concept emerged during the 1960s, when researchers first observed that the cell could destroy its own contents by enclosing it in membranes – autophagosomes - for degradation.
+
+Scientists discovered during the 1950s that the cell contained specialised compartments, with enzymes that digest proteins, carbohydrates and lipids. These compartments also helped with degradation of cellular constituents. During the 1970s and 1980s, researchers explained the working of a system used to degrade proteins.
+
+Experiments on autophagy
+
+Professor Ohsumi started working on protein degradation in the vacuole (the fluid-filled pocket found in the cell) in 1988. At that time scientists used yeast cells as a model for human cells. But he faced a major challenge; yeast cells are small and their inner structures are not easily distinguished under the microscope and thus he was uncertain whether autophagy even existed in this organism.
+
+But he reasoned that if he could disrupt the degradation process in the vacuole while the process of autophagy was active, then autophagosomes should accumulate within the vacuole and become visible under the microscope. He cultured mutated yeast lacking vacuolar degradation enzymes and simultaneously stimulated autophagy by starving the cells. Within hours, the vacuoles were filled with small vesicles that had not been degraded. His experiment proved that authophagy existed in yeast cells. He had also figured out the method to identify and characterise key genes involved in this process. This was a major breakthrough.
+
+Within a year of his discovery of autophagy in yeast, Professor Ohsumi had identified the first genes essential for autophagy. He studied thousands of yeast mutants and identified 15 genes that are essential for autophagy. Subsequently, he characterised the proteins encoded by these genes according to their function. The results showed that autophagy is controlled by a cascade of proteins and protein complexes, each regulating a distinct stage of autophagosome initiation and formation.
+
+Professor Ohsumi studied the function of the proteins encoded by key autophagy genes. He outlined how stress signals initiated autophagy and the mechanism by which proteins and protein complexes promoted distinct stages of autophagosome formation.
+
+Physiological functions
+
+Autophagy can rapidly provide fuel for energy and building blocks for renewal of cellular components, and is, therefore, essential for the cellular response to starvation and other types of stress. After infection, autophagy can eliminate invading intracellular bacteria and viruses. Autophagy contributes to embryo development and cell differentiation. Cells also use autophagy to eliminate damaged proteins and organelles, a quality control mechanism that is critical for counteracting the negative consequences of aging.
+
+Disruption of the autophagy processes of the cell has been linked to Parkinson’s disease, type 2 diabetes and other disorders that appear in the elderly. Mutations in autophagy genes can cause genetic disease. Disturbances in the autophagic machinery have also been linked to cancer. Efforts are on to develop drugs that can target autophagy in various diseases.
+
+If not for ProfessorOhsumi’s research in the 1990s, the world would not have known the fundamental importance of autophagy in physiology and medicine.

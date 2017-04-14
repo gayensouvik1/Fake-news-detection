@@ -1,0 +1,21 @@
+A natural system for silencing genes that appears to be a way the body’s genetic material defends itself from unwanted changes is helping develop resistant crops but has not yet translated into many clinical therapies, said a 2006 Nobel Prize for Medicine recipient.
+
+Dr. Andrew Fire, of Stanford University, was the first G. Lombard Kelly Lecturer on Thursday at the Medical College of Georgia at Augusta University. He shared the 2006 Nobel Prizein Physiology or Medicine for discovering the mechanism of RNA interference. Short pieces of double-stranded RNA (molecules that transmit genetic material) coded to a particular gene can block that gene from creating a protein, “silencing” that gene.
+
+Fire first published on RNA interference in 1998, and in the years since then, RNA interference has attracted a lot of attention from both research and clinical standpoints from researchers who want to use it to target particular genes. The system, which might be a way for cells to defend against things such as viruses that attempt to assert themselves into the genome – the total genetic material – could also be one of the reasons why many early gene therapy trials failed.
+
+What researchers hoped were “very intelligent, scientific ways of manipulating these systems turned out to be manipulations that were recognized by the organisms as often unwanted information trying to make itself heard,” Fire said. “The organisms then responded to that. And those mechanisms are very interesting and exciting and one of those mechanisms is RNA interference.”
+
+Fire’s work was in nematode worms and it turns out that it it is much more difficult to get RNA into mammalian or human cells because it gets degraded in the body.
+
+“It’s been critical to do any of those applications to develop ways of encapsulating and protecting the RNA in order to get a biological effect,” he said.
+
+While his lab has not done that work, others have made “impressive progress” in achieving that, Fire said. For instance, one company is in Phase III clinical trials using a RNA interference drug to combat defective amyloid protein production in the liver that causes fibril tangles to form in organs, where even blocking a significant percentage has a big clinical effect. Such applications might be more realistic for therapies than say something such as cancer, Fire said.
+
+“In some of those cases a modest effect can be quite beneficial,” he said. “That is something that is challenging with cancer because if you have a modest effect on cancer, generally the cancer just evolves to match that.”
+
+RNA interference might be useful for more precisely characterizing what genes are active in a tumor, for instance, and points toward ways to more precisely attack it, Fire said. It could also be helpful in moving toward more personalized medicine, he said.
+
+In agriculture, however, RNA interference is proving to be more successful in creating genetically modified organisms that, for instance, could be more resistant to pathogens or extreme conditions, Fire said. That work predates the discovery of the precise mechanisms of RNA interference, he said, but it is still a useful tool for helping to create those organisms.
+
+“Some of those strains or species will be useful for mitigating what are really substantial problems in crops, in mitigating hunger,” Fire said. “So there is a benefit to this in agriculture.”

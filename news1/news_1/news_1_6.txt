@@ -1,0 +1,19 @@
+Uber has now grounded its entire autonomous test fleet in the U.S., following an accident in Arizona which left one of its Volvo SUVs flipped on its side earlier today. The car was in self-driving mode at the time of the incident.
+
+As we reported earlier, the company suspended the pilot in Arizona in the immediate aftermath of the crash. But it has now said it’s grounded its entire autonomous fleet — so also in the two other regions where it is currently piloting the self-driving cars: Pittsburg and San Francisco.
+
+“Our vehicles in Arizona remain grounded while we continue our investigation. Our vehicles are grounded in Pittsburgh and SF today as well,” an Uber spokeswoman told us.
+
+Four hours ago the same spokeswoman told us the fleet was grounded in Arizona but did not mention the other two locations so it appears the company has decided to expand the suspension in the past few hours.
+
+The spokeswoman confirmed that the Arizona grounding will last as long as the duration of the investigation into the crash but added that the wider suspension does not have a set timing — so it’s not clear how long all self-driving Ubers will be parked. Presumably at least for the rest of today.
+
+Although Uber pulled the autonomous vehicles out of SF last December, after a dispute with local regulators, a smaller fleet returned to California’s roads earlier this month — after it was granted a permit to test two self-driving cars. In Phoenix and Pittsburg Uber has been testing 12 cars apiece.
+
+All Uber’s test vehicles include a human driver sitting in the driver’s seat so they are in a position to take over driving should that be necessary.
+
+In the Arizona incident, in which no one has been reported seriously injured, the WSJ reports local police saying Uber’s self-driving technology was not responsible for the accident — instead a regular vehicle “failed to yield”.
+
+As we noted earlier, the crash is just the latest in a string of bad news stories for Uber — including several related to its self-driving technology but also beyond that, with accusations the company has a problem with systemic sexism in its corporate culture.
+
+That run of bad publicity might explain why it’s taken the decision to err on the side of caution in this instance and ground all its autonomous vehicles, despite the tech not being accused of culpability.

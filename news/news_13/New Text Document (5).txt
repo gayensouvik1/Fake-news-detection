@@ -1,0 +1,50 @@
+Following the decisive victory of BJP in the 2017 Uttar Pradesh Assembly Elections, the “where did the Muslim vote go” question is dominating the political discourse. There are all sorts of arguments. BJP President Amit Shah says that “a voter is a voter, there is nothing like a Hindu voter or Muslim voter.” Others say that the BJP negated Muslim votes through smart social engineering and polarization.
+
+Did Muslims in UP vote for the BJP in large numbers? Or did they shun the BJP altogether in favour of others?
+
+The fact is: there is no definite answer. Conjectures and anecdotal explanations set aside, data available in the public domain is inadequate to provide any empirical evidence to understand whether Muslims — constituting around 18% of UP’s population — voted for or against the BJP. Here is why.
+The vote share of BJP in the 2017 elections was around 40%, two percentage points less than the 42% vote share it bagged in the 2014 Lok Sabha elections. If there were to be a “significant increase” in vote share from the Muslim community, that would imply an equivalent reduction from another section.
+
+“In 2014, one-fifth of Jatavs and one-fourth Yadavs voted for the BJP. There might have been a slight decline among these sections due to the consolidation of Jatavs by BSP and Yadavs by SP,” says Rahul Verma, of Lokniti-CSDS and the Department of Political Science at UC Berkeley. But, he adds, “the share of non-Yadav OBCs and Non-Jatav Dalits could have possibly increased a bit, due to the campaign strategy adopted by the BJP, but the overall social coalition of 2014 remain largely unchanged.”
+
+While it is unclear whether Muslims voted for the BJP in greater than usual numbers, it is equally uncertain whether Muslim support for the BJP decreased. In recent years, some small minority of Muslims have cast their ballots for the BJP, despite the party’s reputation for championing Hindu causes. According to a paper published in the Economic and Political Weekly, 7% of the Muslim population voted for the BJP in the 2012 assembly elections and 10% in the Lok Sabha elections of 2014, based on data from Lokniti-CSDS. A similar proportion may have voted for the BJP this time around.
+
+But again, whether that share has increased or not, is not clear, due to limitations of available data.
+Results data from the Election Commission of India (ECI) gives us a broad picture of voting patterns. We know the number of votes received by each candidate, which enables us to calculate interesting metrics like party-wise vote share and margin of victory, among other things.
+
+As of now, data is only available at the constituency level. By looking at the constituency demographics—for instance, the proportion of the population that is Muslim—we can make inferences about each party’s success in courting the Muslim vote. But these are just guesses—we still cannot draw concrete conclusions about the individual or community-level voting behaviour.
+
+Dr AK Verma, director at Centre for the Study of Society and Politics, Kanpur, says that polling booth level data from ECI will help us substantially claim what happened with the Muslim vote. “Analysis of booths which have more than 80-90% Muslims will help us gather evidence. If the community is voting for a particular party across various such booths, that can suggest how Muslims voted.”
+
+It is here that survey data would be helpful, but, again, such data is not yet available to us.
+
+Post-poll surveys conducted by Lokniti-CSDS have been the primary data source to answer nuanced questions about election outcomes in India. But as of now, we don’t have that data for 2017 UP elections. This is because the party-wise vote share in the UP elections, as suggested by Lokniti-CSDS polls, didn’t match with actual results and, as a result, can’t be used for analysis as it is. The Lokniti-CSDS team has started an internal audit to figure out why their vote estimates were so off the mark. Once the problems are identified, CSDS says, they plan to carry on with their analysis after weighing the dataset with actual vote shares, alongside acknowledging that “any estimates based on that data will have errors.” However, not doing any analysis in coming months on this dataset is not an option, says CSDS, because “then we’ll have very little idea of what happened in 2017.”
+
+Read more
+
+Muslims in Uttar Pradesh assembly down to 5.9%, from 17.1% in 2012
+
+Muslim leaders struggle to understand how BJP won in minority-dominated UP seats
+Can data from the ECI hep?
+
+An analysis of Election Commission data by HT shows that of the 42 Muslim dominated constituencies, 32 were won by the BJP. In 2007, the BJP won just 6 of these 42 seats, and just 7 in the 2012 assembly elections. Plus, the vote share of the BJP in these constituencies stood at 39.2%, just marginally less than the overall vote share. Does this indicate massive voting by Muslims in favor of the BJP?
+
+“Whenever there are big majorities, winning parties perform well across all types of constituencies, following the overall trend. The pattern has been observed for reserved constituencies, and shouldn’t be very different for Muslim-dominated seats,” says Rahul Verma. Like the BJP, BSP bagged the majority of these 42 seats in 2007 when it won the election and so was the case with SP in 2012.
+
+Based on field studies, Dr AK Verma says that “Muslims in Fatehpur region were upbeat about voting for BJP due to demonetisation,” and there were other regions where “Triple Talaq was an important issue for Muslim women which could have translated into some votes for the BJP.”
+
+However, massive voting from Muslims in these constituencies is not a definite requirement for the BJP’s success. Historical voting pattern in UP tells us that high-tone election campaigns by so-called “secular” parties for Muslim support can polarise the election along religious lines. Then, two factors can explain the victory.
+
+First, the Muslim vote may have fragmented among various parties and candidates. Second, religious polarisation may have caused a consolidation of the Hindu vote, which helps the BJP gain more votes. The BJP’s push in the election campaign to increase its base among the non-Yadav OBC and the non-Jatav Dalit could have possibly triggered the consolidation, leading to victory in these seats.
+
+“It is the Hindus who got together and voted en bloc for the BJP in this election, rising above caste and other identities,” said an RSS source who spoke on the condition of anonymity because he was not authorized to speak publicly.
+
+Do Muslims vote for Muslim candidates?
+
+35 of the 42 Muslim-dominated constituencies had a Muslim candidate fighting from a major party, (either the SP-Congress alliance or the BSP; the BJP did not field any Muslim candidate across UP). Of these 35, 26 were won by BJP and 9 by SP.
+
+The EPW paper cites research of Oliver Heath (University of London) and others which indicates that Muslim voters are likely to vote for Muslim candidates “only when they are perceived to have realistic chances of winning.”
+
+Muslims don’t vote en bloc to defeat the BJP
+
+Contrary to popular perception, Muslims do not vote en bloc and strategically to defeat the BJP in elections, the EPW paper argues, using public opinion and election returns data from Uttar Pradesh. They provide empirical evidence to show that “the political and electoral behaviour of Muslims is no different from that of any other major community in the state.” For instance, upwardly mobile Muslims have different political preferences than marginalised ones. “Though the SP received the maximum vote share across all four categories, the party does better among the upwardly mobile section of Muslims.”

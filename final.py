@@ -132,9 +132,15 @@ test_list = glob.glob("news/test_true/*")
 paths = os.path.abspath("news/*")
 news_len = len(glob.glob(paths))
 
+<<<<<<< HEAD
 
 for my_test in test_list:
     with open(my_test, 'r') as myfile:
+=======
+for i in range (0,my_len):
+    temp = 'news/test/test_'+str(i+1)+'.txt'
+    with open(temp, 'r') as myfile:
+>>>>>>> decaf70d23340230ce1277c717e1c77bd350e4d4
         test.append(myfile.read())
 
 clean_test_reviews = []
@@ -159,6 +165,7 @@ result_prob = forest.predict_proba(test_data_features)
 # a "sentiment" column
 import pandas as pd
 
+<<<<<<< HEAD
 threshold = 0.3
 
 def filter():
@@ -166,19 +173,35 @@ def filter():
 	for i in range(0,len(test_list)):
 		bl = 0
 		for j in range(0,news_len-2):
+=======
+threshold = 0.7
+
+def filter():
+	
+	for i in range(0,my_len):
+		bl = 0
+		for j in range(0,news_len-1):
+>>>>>>> decaf70d23340230ce1277c717e1c77bd350e4d4
 			
 			if result_prob[i][j] >= threshold:
 				bl = 1
 				break
+<<<<<<< HEAD
 		
 		if bl==0:
 			result[i] = 0
 
 			
+=======
+		print bl
+		if bl==0:
+			result[i] = 0
+>>>>>>> decaf70d23340230ce1277c717e1c77bd350e4d4
 filter()
 output = pd.DataFrame( {"news":np.asarray(test), "class":result} ).set_index('news')
 
 print output
+<<<<<<< HEAD
 
 
 
@@ -238,3 +261,5 @@ for i in range(0,len(test)):
 
 # root.mainloop()
 
+=======
+>>>>>>> decaf70d23340230ce1277c717e1c77bd350e4d4
